@@ -1,3 +1,15 @@
+• Which device acts as the client
+- Bobs computer
+• Which device acts as the server
+- Githubs web server 
+• How Bob’s browser requests the repository content
+- Bob enters the URL into the browser, browser sends a HTTP/HTTPS request to the servers IP.
+• How the server responds and sends the content back to Bob
+- Server processes request, fetches repository data, replies in HTTP/HTTPS response packets then rendered in browser.
+
+
+
+
 CASABLANCA 
 
 
@@ -7846,6 +7858,7 @@ The two walk off together into the night.
 
 FADE OUT. 
 THE END 
+
 
 
 
